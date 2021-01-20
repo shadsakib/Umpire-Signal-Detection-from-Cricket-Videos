@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/VideoClassification/SaveFolder/15/15.ckpt"
+all_model_checkpoint_paths: "/content/VideoClassification/SaveFolder/15/15.ckpt"
